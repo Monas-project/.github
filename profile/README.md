@@ -6,5 +6,6 @@ Monas is a **Decentralized Personal Data Store (PDS)** designed to empower Data 
 
 ## Link  
 Document: [Monas: Privacy, Data Interoperability, and Self-Sovereignty in Decentralized Personal Data Store v1.0.1](https://docs.google.com/document/d/1stQUrYfhbEcIilbOaRzCUfETRXiCWzo-E60MJ0CvnQg/edit)  
+日本語: [here](https://docs.google.com/document/d/16m5IdBOjIS_Bk0YLzJ9T6feztUc_32CJ1PGRyHHOAe8/edit?usp=sharing)  
 About Prototype: [here](https://github.com/Monas-project/Filecoin-Data-Economy-Hackathon/blob/6bcf16163a830665531633bc70a17d4b23124ce9/docs/prototype.md)
 
